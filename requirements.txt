@@ -1,0 +1,2 @@
+matplotlib==2.2.3
+ipywidgets==7.4.0
