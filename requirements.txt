@@ -6,3 +6,4 @@ bqplot==0.11.5
 scipy==1.1.0
 ipyvolume==0.5.1
 numpy-stl==2.10.1
+ipyupload==0.1.3
