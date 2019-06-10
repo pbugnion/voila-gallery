@@ -1,6 +1,6 @@
 matplotlib==2.2.3
-ipywidgets
-ipympl
+ipywidgets==7.4.2
+ipympl==0.2.1
 voila==0.0.13
 pandas==0.23.4
 bqplot==0.11.5
@@ -10,4 +10,4 @@ numpy-stl==2.10.1
 ipyupload==0.1.3
 ipymesh==0.1.0
 triangle==20190115.2
-ipyleaflet
+ipyleaflet==0.10.2
