@@ -10,3 +10,4 @@ numpy-stl==2.10.1
 ipyupload==0.1.3
 ipymesh==0.1.0
 triangle==20190115.2
+ipyleaflet
